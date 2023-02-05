@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+border: 0;
+
+}
+.body {
+    margin: 0 auto;
+    max-width: 200%;
+}
+.text{
+    background-color: aquamarine;
+}
+.title{background-color: blueviolet;}
+.h2_text{color: chocolate;}
+.video{color: brown;}
