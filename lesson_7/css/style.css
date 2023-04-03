@@ -1,0 +1,118 @@
+@import url("reset.css");
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap);
+
+[class*="article"] {
+	max-width: 2000px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+} 
+h1{ font-size: 40px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+h2{
+    font-size: 40px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+}
+
+.title{
+    max-width: 1200px;
+    padding-left: 80px;
+    padding-right: 15px;
+    padding-top: 300px;
+	position: absolute;
+}
+.container__list{
+	padding: 5px 5px 5px 5px;
+
+}
+.list1 {
+	font-size: 25px;
+	line-height: 1.2;
+	background: url("../img/icons/icon1.svg") 0 0 / 30.8px repeat-y;
+	margin-bottom: 20px;
+	padding-left: 70px;
+	padding-top: 5px;
+	min-height: 48px;
+	
+}
+.list2 {
+	font-size: 25px;
+	line-height: 1.2;
+	background: url("../img/icons/icon2.svg") 0 0 / 31px repeat-y;
+	margin-bottom: 20px;
+	padding-left: 70px;
+	padding-top: 5px;
+	min-height: 48px;
+}
+.list3 {
+	font-size: 25px;
+	line-height: 1.2;
+	background: url("../img/icons/icon3.svg") 0 0 / 31px repeat-y;
+	margin-bottom: 50px;
+	padding-left: 70px;
+	padding-top: 5px;
+	min-height: 48px;
+}
+.list4 {
+	font-size: 25px;
+	line-height: 1.2;
+	background: url("../img/icons/icon4.svg") 0 0 / 31px repeat-y;
+	margin-bottom: 50px;
+	padding-left: 70px;
+	padding-top: 5px;
+	min-height: 48px;
+}
+.list5 {
+	font-size: 25px;
+	line-height: 1.2;
+	background: url("../img/icons/icon5.svg") 0 0 / 30px repeat-y;
+	margin-bottom: 50px;
+	padding-left: 70px;
+	padding-top: 5px;
+	min-height: 48px;
+}
+.list6 {
+	font-size: 25px;
+	line-height: 1.2;
+	background: url("../img/icons/icon6.svg") 0 0 / 31px repeat-y;
+	margin-bottom: 50px;
+	padding-left: 70px;
+	padding-top: 5px;
+	min-height: 48px;
+}
+.about {
+	background-color: grey;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.article_conteiner {
+	max-width: 1200px;
+    padding-left: 80px;
+    padding-right: 15px;
+    padding-top: 300px;
+	position: absolute;
+}
+.contacts {
+	padding-bottom: 50px;
+	padding-top: 50px;
+	background-color: yellowgreen;
+	margin: 20px 40px 20px 20px;
+	max-width: 300px;
+	background-attachment: fixed;
+	position: absolute;
+}
+
+.contacts__container {
+font-size: 40px;
+}
+
+.fixed {
+	max-width: 1800px;
+	height: 500px;
+	background: url("../img/jpeg_1.png") center / cover repeat fixed;
+}
